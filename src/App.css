@@ -1,0 +1,42 @@
+.map {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  user-select: none;
+}
+.map-cluster div {
+  color: #ffffff !important
+}
+
+.map-cluster__title h5 {
+  margin: 0 0 10px;
+}
+
+/* .gm-style .gm-style-iw-a { */
+  /* transform: translateX(38px) translateY(16px); */
+/* } */
+
+.container {
+  width: 400px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.slider-container {
+  width: 100%;
+  height: 100%;
+}
+
+.slider-frame, .slide-visible, .slider-list {
+  height: 100% !important
+}
+
+.gm-style img {
+  height: 100%;
+  width: auto;
+}
+
+.slide {
+  text-align: center;
+  overflow: hidden;
+}
